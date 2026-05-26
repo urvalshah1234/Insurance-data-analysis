@@ -7,6 +7,8 @@ This project is an interactive Tableau dashboard developed to analyze insurance 
 The objective of this project is to transform raw insurance data into meaningful visual insights that support better business decision-making and operational analysis.
 
 ---
+## View
+https://public.tableau.com/app/profile/urval.shah/viz/Book1_17796989264840/InsuranceClaimsPolicyAnalyticsDashboard
 
 ## Tools & Technologies Used
 
